@@ -1,0 +1,18 @@
+This program plays a game of bowling. Has single and multiplayer options.
+
+
+
+--Thoughts--
+This is a program i wrote because a friend of mine mentioned it. They were doing
+it in python, i thought it sounded fun so i did it aswell.
+
+
+The way i organized the headers is not something i would probably do all the time.
+It seperates the different parts of the functionalities. I wrote this just out of
+doing C++ object things, and was playing around with different ways to organize
+my code.
+
+I am not a huge fan of how many files and extra functions there are to format
+things this way tho. Seemed like a hassling experience sometimes, where more
+straight to the point options were available. Not sure how much readability this
+does since theres so many headers, not all with much code.
